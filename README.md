@@ -1,6 +1,6 @@
-# Taller 2 AREP
+# Taller 3 AREP
 
-Aplicacion que permite consultar distintos archivos o recursos locales
+Framework que emula spark, a traves de funciones lambda GET y POST
 
 ## Empezando
 
